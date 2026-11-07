@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#12110F</color>
+    <color name="card">#1E1B17</color>
+    <color name="text">#F6F1E8</color>
+    <color name="text_muted">#B7AA9C</color>
+    <color name="accent">#FFB020</color>
+    <color name="on_accent">#2A1C08</color>
+    <color name="orb_off">#2C2823</color>
+    <color name="icon_off">#CABBAA</color>
+    <color name="stroke">#34302A</color>
+</resources>

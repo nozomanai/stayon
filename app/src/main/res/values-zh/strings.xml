@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">屏幕常亮</string>
+    <string name="tile_label">屏幕常亮</string>
+    <string name="tile_on">已开启</string>
+    <string name="tile_off">已关闭</string>
+    <string name="summary">打开以后，系统不会按原来的时间自动锁屏。关掉之后，锁屏时间会改回你原来的设置。</string>
+    <string name="status_on">常亮开着</string>
+    <string name="status_off">已经关掉</string>
+    <string name="status_detail_on">自动锁屏已暂停</string>
+    <string name="status_detail_off">仍按系统设置的时间熄屏</string>
+    <string name="switch_label">保持屏幕常亮</string>
+    <string name="section_permission">系统权限</string>
+    <string name="permission_help">这台手机不理会应用自己的亮屏锁，所以要改系统的自动锁屏时间。请允许修改系统设置。只在常亮开着时生效，关闭后会改回去。卸载前请先关掉常亮。</string>
+    <string name="permission_button">允许修改系统设置</string>
+    <string name="permission_done">已允许修改系统设置</string>
+    <string name="permission_missing">还没有允许修改系统设置，常亮没有打开</string>
+    <string name="permission_unavailable">这台手机没有打开这个设置页</string>
+    <string name="section_tile">下拉栏</string>
+    <string name="add_tile">添加到下拉栏</string>
+    <string name="tile_help">下拉状态栏，点编辑，把「屏幕常亮」拖到上面。下拉栏里点一下就能开关。</string>
+    <string name="tile_added">已加到下拉栏</string>
+    <string name="tile_exists">下拉栏里已经有了</string>
+    <string name="tile_not_added">没加上。下拉状态栏，点编辑，手动把「屏幕常亮」拖上去。</string>
+    <string name="section_battery">避免被系统关掉</string>
+    <string name="battery_help">有些手机会在后台结束这个功能。设成无限制之后，常亮更稳。小米、华为、OPPO 还要在系统里允许自启动。</string>
+    <string name="battery_button">去设置无限制</string>
+    <string name="battery_done">已经允许后台运行</string>
+    <string name="battery_unavailable">这台手机没有这个设置页</string>
+    <string name="notif_channel_name">屏幕常亮</string>
+    <string name="notif_channel_desc">开启屏幕常亮时会留在通知栏里</string>
+    <string name="notif_title">屏幕常亮开着</string>
+    <string name="notif_text">自动锁屏已暂停。点「关闭」恢复原来的时间</string>
+    <string name="notif_big">自动锁屏时间已暂时拉长。点「关闭」，或再点一次下拉栏里的「屏幕常亮」，会恢复原来的锁屏时间。</string>
+    <string name="notif_action_stop">关闭</string>
+    <string name="notif_denied">没有通知权限也可以常亮。如果通知栏里看不到提示，到系统设置里允许「屏幕常亮」发通知。</string>
+    <string name="error_title">无法保持常亮</string>
+    <string name="error_text">没能改掉自动锁屏时间。请允许「屏幕常亮」修改系统设置。</string>
+    <string name="version_label">版本 %1$s</string>
+</resources>

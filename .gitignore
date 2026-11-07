@@ -1,0 +1,33 @@
+# 构建产物
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+build/
+.gradle/
+.kotlin/
+
+# 本机 SDK 路径，不要提交
+local.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+.navigation/
+*.hprof
+
+# 签名文件
+*.jks
+*.keystore
+
+# 系统杂项
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stay On</string>
+    <string name="tile_label">Stay On</string>
+    <string name="tile_on">On</string>
+    <string name="tile_off">Off</string>
+    <string name="summary">While this is on, the phone will not auto-lock on its usual timer. Turning it off restores your previous timeout.</string>
+    <string name="status_on">On</string>
+    <string name="status_off">Off</string>
+    <string name="status_detail_on">Auto-lock is paused</string>
+    <string name="status_detail_off">The screen will sleep on its usual timer</string>
+    <string name="switch_label">Keep screen on</string>
+    <string name="section_permission">Permission</string>
+    <string name="permission_help">This phone ignores an app wake lock, so Stay On changes the system screen timeout. Allow modifying system settings. The old timeout is restored when you turn it off. Turn it off before uninstalling.</string>
+    <string name="permission_button">Allow modifying system settings</string>
+    <string name="permission_done">System settings changes allowed</string>
+    <string name="permission_missing">Stay On stayed off. Allow it to modify system settings.</string>
+    <string name="permission_unavailable">This phone has no screen for that permission.</string>
+    <string name="section_tile">Quick Settings</string>
+    <string name="add_tile">Add to Quick Settings</string>
+    <string name="tile_help">Pull down the notification shade, tap the edit icon, then drag Stay On into the tiles.</string>
+    <string name="tile_added">Added to Quick Settings</string>
+    <string name="tile_exists">Stay On is already in Quick Settings</string>
+    <string name="tile_not_added">Not added. Pull down the shade, tap edit, and drag Stay On up.</string>
+    <string name="section_battery">Keep it running</string>
+    <string name="battery_help">Some phones stop this in the background. Set battery use to unrestricted so the screen stays on.</string>
+    <string name="battery_button">Allow unrestricted battery</string>
+    <string name="battery_done">Background activity allowed</string>
+    <string name="battery_unavailable">This phone has no battery settings page</string>
+    <string name="notif_channel_name">Stay On</string>
+    <string name="notif_channel_desc">Shown while the screen is being kept on</string>
+    <string name="notif_title">Screen stays on</string>
+    <string name="notif_text">Auto-lock is paused. Tap Turn off to restore it</string>
+    <string name="notif_big">The screen timeout is temporarily extended. Tap Turn off, or tap the Stay On tile again, to restore your previous timeout.</string>
+    <string name="notif_action_stop">Turn off</string>
+    <string name="notif_denied">Stay On still works without notification permission. If you do not see the notification, allow notifications for Stay On in system settings.</string>
+    <string name="error_title">Can\'t keep the screen on</string>
+    <string name="error_text">Could not change the screen timeout. Allow Stay On to modify system settings.</string>
+    <string name="version_label">Version %1$s</string>
+</resources>
